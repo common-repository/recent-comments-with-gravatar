@@ -1,0 +1,34 @@
+.rcg-div {
+   padding:10px;
+   overflow:hidden;
+   background-color:#fff;
+   clear:both;
+}
+
+.rcg-wrapper {
+   clear:both;
+   min-height:46px;
+}
+
+.rcg-div ul li {
+   margin:0;
+   padding-left:0;
+   padding-bottom:10px;
+   list-style:none outside none;
+   background:none repeat scroll 0 0 transparent;
+}
+
+.rcg-avatar {
+   float:left;
+   padding-top:5px;
+   padding-right:10px;
+}
+
+.rcg-author {
+   background-color:#ffffcc !important;
+}
+
+.rcg-link {
+   float:right;
+   font-size:10px;
+}

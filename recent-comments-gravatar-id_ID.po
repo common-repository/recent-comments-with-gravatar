@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recent-comments-gravatar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-11 16:06+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Agus Suhanto <agus@suhanto.net>\n"
+"Language-Team: Agus Suhanto <agus@suhanto.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Title: "
+msgstr "Judul: "
+
+msgid "Num. of comments to display: "
+msgstr "Juml. komentar yg tampil: "
+
+msgid "Gravatar width: "
+msgstr "Lebar gravatar: "
+
+msgid "Author emails (comma separated): "
+msgstr "Email pengarang (pisahkan koma): "
+
+msgid "Show in Post"
+msgstr "Tampilkan dalam Post"
+
+msgid "Show in Page"
+msgstr "Tampilkan dalam Page"
+
+msgid "Use custom style"
+msgstr "Gunakan style sendiri"
+
+msgid "Link to us (optional)"
+msgstr "Tautan ke kami (opsional)"
+
+msgid "More details about these options, visit <a href=\"%s\" target=\"_blank\">Plugin Home</a>"
+msgstr "Lebih detil tentang opsi ini, kunjungi <a href=\"%s\" target=\"_blank\">Plugin Home</a>"
+
+msgid "Donate"
+msgstr "Donasi"
+
+msgid "answered on"
+msgstr "menjawab dalam"
+
+msgid "commented on"
+msgstr "berkomentar dalam"
+
+msgid "Get this widget for your own blog free!"
+msgstr "Dapatkan widget ini untuk blog Anda gratis!"
+
+msgid "weeks"
+msgstr "minggu"
+
+msgid "days"
+msgstr "hari"
+
+msgid "hours"
+msgstr "jam"
+
+msgid "minutes"
+msgstr "menit"
+
+msgid "seconds"
+msgstr "detik"
+
+msgid "ago"
+msgstr "yang lalu"
+
